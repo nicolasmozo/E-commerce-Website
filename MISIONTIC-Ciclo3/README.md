@@ -1,4 +1,4 @@
-Academic Project - Computer Programming Bootcamp 2021 - 03 
+Academic Project - Computer Programming Bootcamp
 
 # MISONTIC-Ciclo3
 ## Integrantes
