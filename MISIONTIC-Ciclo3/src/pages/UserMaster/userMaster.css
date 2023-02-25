@@ -1,0 +1,50 @@
+.title{
+    text-align:center;
+}
+.table{
+    text-align:left;
+   width:100%;
+   table-layout:fixed;
+   margin:10px;
+}
+.table td{
+    border: 1px solid black;
+    padding:10px;
+}
+.table th {
+    padding-top:15px;
+    padding-bottom:15px;
+    background-color:black;
+    color:white;
+    text-align:center;
+}
+.table tr:nth-child(even) {
+background-color:#ddd;
+}
+.table tr:hover{
+    background-color:LightGray;
+    cursor:pointer;
+}
+.actions{
+    text-align:center;
+    margin:10px;
+}
+.busqueda{
+    margin:15px;  
+}
+.busqueda-in{
+    padding:5px;
+}
+.foot{
+    
+    text-align:center;
+    cursor: pointer;
+
+}
+.foot a {
+    color: #999;
+    text-decoration: none;
+}
+.foot a:hover {
+    color: #000;
+}
